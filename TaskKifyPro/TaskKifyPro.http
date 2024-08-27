@@ -1,0 +1,6 @@
+@TaskKifyPro_HostAddress = http://localhost:5015
+
+GET {{TaskKifyPro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
